@@ -1,4 +1,4 @@
-# ADAM ASMACA PROJESİ-HANG MAN PROJECT
+#                                         ADAM ASMACA PROJESİ-HANG MAN PROJECT
 
 # EN
 GUI BASED GAME
